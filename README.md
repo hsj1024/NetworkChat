@@ -1,4 +1,4 @@
-# NetworkChat
+# NetworkChatting Program
 
 Network - Chatting Program
 
